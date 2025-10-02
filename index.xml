@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nuno Pombo - UBI</title>
+    <link>https://github.com/rodrigoesteves45/website.git/</link>
+      <atom:link href="https://github.com/rodrigoesteves45/website.git/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nuno Pombo - UBI</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://github.com/rodrigoesteves45/website.git/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Nuno Pombo - UBI</title>
+      <link>https://github.com/rodrigoesteves45/website.git/</link>
+    </image>
+    
+    <item>
+      <title>Contact &amp; Meet Me</title>
+      <link>https://github.com/rodrigoesteves45/website.git/contactos/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://github.com/rodrigoesteves45/website.git/contactos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://github.com/rodrigoesteves45/website.git/teaching/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://github.com/rodrigoesteves45/website.git/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;!-- saved from url=(0031)https://www.di.ubi.pt/~ngpombo/ --&gt;
+&lt;html lang=&#34;en&#34; style=&#34;&#34; class=&#34; js no-touch csstransitions&#34;&gt;&lt;head&gt;&lt;meta http-equiv=&#34;Content-Type&#34; content=&#34;text/html; charset=UTF-8&#34;&gt;
+        &lt;title&gt;Nuno Pombo - UBI&lt;/title&gt;
+        
+        &lt;meta name=&#34;NP18&#34; content=&#34;&#34;&gt;
+
+
+
+        &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1, maximum-scale=1&#34;&gt;
+
+        &lt;meta name=&#34;description&#34; content=&#34;Nuno Pombo, Universidade da Beira Interior&#34;&gt;
+        &lt;meta name=&#34;keywords&#34; content=&#34;software engineering, IT consultant, AAL, algorithms, AI, medical informatics, software, programming&#34;&gt;
+
+        &lt;link rel=&#34;shortcut icon&#34; href=&#34;http://www.ubi.pt/favicon.ico&#34;&gt;
+
+        &lt;!--CSS styles--&gt;
+        &lt;link rel=&#34;stylesheet&#34; href=&#34;./foto_files/bootstrap.css&#34;&gt;
+        &lt;link rel=&#34;stylesheet&#34; href=&#34;./foto_files/font-awesome.min.css&#34;&gt;  
+        &lt;link rel=&#34;stylesheet&#34; href=&#34;./foto_files/perfect-scrollbar-0.4.5.min.css&#34;&gt;
+        &lt;link rel=&#34;stylesheet&#34; href=&#34;./foto_files/magnific-popup.css&#34;&gt;
+        &lt;link rel=&#34;stylesheet&#34; href=&#34;./foto_files/style.css&#34;&gt;
+        &lt;link id=&#34;theme-style&#34; rel=&#34;stylesheet&#34; href=&#34;./foto_files/default.css&#34;&gt;
+
+        
+        &lt;!--/CSS styles--&gt;
+        &lt;!--Javascript files--&gt;
+        &lt;script async=&#34;&#34; src=&#34;./foto_files/analytics.js.transferir&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;./foto_files/jquery-1.10.2.js.transferir&#34;&gt;&lt;/script&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;./foto_files/TweenMax.min.js.transferir&#34;&gt;&lt;/script&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;./foto_files/jquery.touchSwipe.min.js.transferir&#34;&gt;&lt;/script&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;./foto_files/jquery.carouFredSel-6.2.1-packed.js.transferir&#34;&gt;&lt;/script&gt;
+        
+        &lt;script type=&#34;text/javascript&#34; src=&#34;./foto_files/modernizr.custom.63321.js.transferir&#34;&gt;&lt;/script&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;./foto_files/jquery.dropdownit.js.transferir&#34;&gt;&lt;/script&gt;
+
+        &lt;script type=&#34;text/javascript&#34; src=&#34;./foto_files/jquery.stellar.min.js.transferir&#34;&gt;&lt;/script&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;./foto_files/ScrollToPlugin.min.js.transferir&#34;&gt;&lt;/script&gt;
+
+        &lt;script type=&#34;text/javascript&#34; src=&#34;./foto_files/bootstrap.min.js.transferir&#34;&gt;&lt;/script&gt;
+
+        &lt;script type=&#34;text/javascript&#34; src=&#34;./foto_files/jquery.mixitup.min.js.transferir&#34;&gt;&lt;/script&gt;
+
+        &lt;script type=&#34;text/javascript&#34; src=&#34;./foto_files/masonry.min.js.transferir&#34;&gt;&lt;/script&gt;
+
+        &lt;script type=&#34;text/javascript&#34; src=&#34;./foto_files/perfect-scrollbar-0.4.5.with-mousewheel.min.js.transferir&#34;&gt;&lt;/script&gt;
+
+        &lt;script type=&#34;text/javascript&#34; src=&#34;./foto_files/magnific-popup.js.transferir&#34;&gt;&lt;/script&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;./foto_files/custom.js.transferir&#34;&gt;&lt;/script&gt;
+
+        &lt;!--/Javascript files--&gt;
+
+
+        &lt;!--Custom Styles for demo only
+        &lt;link rel=&#34;stylesheet&#34; href=&#34;custom-style.css&#34;&gt;
+        &lt;script type=&#34;text/javascript&#34; src=&#34;custom-style.js&#34;&gt;&lt;/script&gt;
+        Custom Styles--&gt;
+
+    &lt;/head&gt;
+    &lt;body style=&#34;&#34;&gt;
+
+        &lt;div id=&#34;wrapper&#34;&gt;
+            &lt;a href=&#34;https://www.di.ubi.pt/~ngpombo/#sidebar&#34; class=&#34;mobilemenu&#34;&gt;&lt;i class=&#34;icon-reorder&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+
+            &lt;div id=&#34;sidebar&#34;&gt;
+                &lt;div id=&#34;main-nav&#34; class=&#34;ps-container&#34;&gt;
+                    &lt;div id=&#34;nav-container&#34;&gt;
+                        &lt;div id=&#34;profile&#34; class=&#34;clearfix&#34;&gt;
+                            &lt;div class=&#34;portrate hidden-xs&#34;&gt;&lt;/div&gt;
+                            &lt;div class=&#34;title&#34;&gt;
+                                &lt;h2&gt;Nuno Pombo&lt;/h2&gt;
+                                &lt;h3&gt;Universidade da Beira Interior&lt;/h3&gt;
+                            &lt;/div&gt;
+                            
+                        &lt;/div&gt;
+                        &lt;ul id=&#34;navigation&#34;&gt;
+                            &lt;li class=&#34;currentmenu&#34;&gt;
+                              &lt;a href=&#34;https://www.di.ubi.pt/~ngpombo/#biography&#34;&gt;
+                                &lt;div class=&#34;icon icon-user&#34;&gt;&lt;/div&gt;
+                                &lt;div class=&#34;text&#34;&gt;About Me&lt;/div&gt;
+                              &lt;/a&gt;
+                            &lt;/li&gt;  
+                            
+                            &lt;li class=&#34;&#34;&gt;
+                              &lt;a href=&#34;https://www.di.ubi.pt/~ngpombo/#research&#34;&gt;
+                                &lt;div class=&#34;icon icon-book&#34;&gt;&lt;/div&gt;
+                                &lt;div class=&#34;text&#34;&gt;Research&lt;/div&gt;
+                              &lt;/a&gt;
+                            &lt;/li&gt; 
+
+                            &lt;li class=&#34;&#34;&gt;
+                              &lt;a href=&#34;https://www.di.ubi.pt/~ngpombo/#teaching&#34;&gt;
+                                &lt;div class=&#34;icon icon-edit&#34;&gt;&lt;/div&gt;
+                                &lt;div class=&#34;text&#34;&gt;Teaching&lt;/div&gt;                              
+                              &lt;/a&gt;
+                            &lt;/li&gt;
+                                                        
+                            &lt;li class=&#34;&#34;&gt;
+                            
+                            &lt;/li&gt;&lt;li&gt;
+                              &lt;a href=&#34;https://www.di.ubi.pt/~ngpombo/#contact&#34;&gt;
+                                  &lt;div class=&#34;icon icon-calendar&#34;&gt;&lt;/div&gt;
+                                  &lt;div class=&#34;text&#34;&gt;Contact&lt;/div&gt;
+                              &lt;/a&gt;
+                            &lt;/li&gt;
+                        &lt;/ul&gt;
+                    &lt;/div&gt;        
+                &lt;div class=&#34;ps-scrollbar-x-rail&#34; style=&#34;left: 0px; bottom: 3px; width: 250px;&#34;&gt;&lt;div class=&#34;ps-scrollbar-x&#34; style=&#34;left: 0px; width: 0px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;ps-scrollbar-y-rail&#34; style=&#34;top: 0px; right: 3px; height: 866px;&#34;&gt;&lt;div class=&#34;ps-scrollbar-y&#34; style=&#34;top: 0px; height: 0px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;  
+            &lt;/div&gt;
+
+            &lt;div id=&#34;main&#34;&gt;
+            
+                &lt;div id=&#34;biography&#34; class=&#34;page home&#34; data-pos=&#34;home&#34;&gt;
+                    &lt;div class=&#34;pageheader&#34;&gt;
+                        &lt;div class=&#34;headercontent&#34;&gt;
+                            &lt;div class=&#34;section-container&#34;&gt;
+                                
+                                &lt;div class=&#34;row&#34;&gt;
+                                    &lt;div class=&#34;col-sm-2 visible-sm&#34;&gt;&lt;/div&gt;
+                                    &lt;div class=&#34;col-sm-8 col-md-5&#34;&gt;
+                                        &lt;div class=&#34;biothumb&#34;&gt;
+                                            &lt;img alt=&#34;image&#34; src=&#34;./foto_files/06.jpg&#34; class=&#34;img-responsive&#34;&gt;
+                                            &lt;div class=&#34;overlay&#34;&gt;
+                                                
+                                                &lt;h1 class=&#34;&#34;&gt;Nuno Pombo&lt;/h1&gt;
+                                                &lt;ul class=&#34;list-unstyled&#34;&gt;
+                                                    &lt;li&gt;Associate Professor&lt;/li&gt;
+                                                    &lt;li&gt;Department of Informatics&lt;/li&gt;
+                                                    &lt;li&gt;Universidade da Beira Interior, Covilhã, Portugal&lt;/li&gt;
+                                                &lt;/ul&gt;
+                                            &lt;/div&gt; 
+                                        &lt;/div&gt;
+                                        
+                                    &lt;/div&gt;
+                                    &lt;div class=&#34;clearfix visible-sm visible-xs&#34;&gt;&lt;/div&gt;
+                                    &lt;div class=&#34;col-sm-12 col-md-7&#34;&gt;
+                                        &lt;h3 class=&#34;title&#34;&gt;Bio&lt;/h3&gt;
+                                        &lt;p&gt;
+                                            Nuno holds a Ph.D. in Computer Science and Engineering. His current research interests include: software engineering, information systems (with special focus on decision support systems), data fusion, and software. He is member of the Instituto de Telecomunicações – IT in the Network Applications and Services group at UBI. He is the head of the Law Enforcement, Justice and Public Safety Research and Technology Transfer Laboratory (BSAFE Lab) at UBI. He is an IEEE Senior Member.
+                                        &lt;/p&gt;
+                                        &lt;p&gt;
+                                            He has around 100 scientific publications including book chapters, conference proceedings, and full-paper journals; e.g. IEEE Access, Applied Soft Computing, Computer Science Review, Artificial Intelligence in Medicine, Computer Methods and Programs in Biomedicine, Pervasive and Mobile Computing, and Measurement, just to mention a few. He has strong experience in R&amp;amp;D and cooperation at European level projects with both academia and industry.
+                                        &lt;/p&gt;                                            
+                                    &lt;/div&gt;  
+                                    
+                                &lt;/div&gt;
+                            &lt;/div&gt;        
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+
+                    &lt;div class=&#34;pagecontents&#34;&gt;
+                        &lt;div class=&#34;section color-1&#34;&gt;
+                            &lt;div class=&#34;section-container&#34;&gt;
+                                &lt;div class=&#34;row&#34;&gt;
+                                    &lt;div class=&#34;col-md-5 col-md-offset-1&#34;&gt;
+                                        &lt;div class=&#34;title text-center&#34;&gt;
+                                            &lt;h3&gt;Academic Positions&lt;/h3&gt;
+                                        &lt;/div&gt;
+                                        &lt;ul class=&#34;ul-dates&#34;&gt;
+                                            &lt;li&gt;
+                                                &lt;div class=&#34;dates&#34;&gt;
+                                                    &lt;span&gt;Present&lt;/span&gt;
+                                                    &lt;span&gt;2023&lt;/span&gt;
+                                                &lt;/div&gt;
+                                                &lt;div class=&#34;content&#34;&gt;
+                                                    &lt;h4&gt;Associate Professor&lt;/h4&gt;
+                                                    &lt;p&gt;&lt;em&gt;Universidade da Beira Interior&lt;/em&gt;&lt;/p&gt;
+                                                &lt;/div&gt;
+                                            &lt;/li&gt;
+                                            &lt;li&gt;
+                                                &lt;div class=&#34;dates&#34;&gt;
+                                                    &lt;span&gt;2023&lt;/span&gt;
+                                                    &lt;span&gt;2018&lt;/span&gt;
+                                                &lt;/div&gt;
+                                                &lt;div class=&#34;content&#34;&gt;
+                                                    &lt;h4&gt;Assistant Professor&lt;/h4&gt;
+                                                    &lt;p&gt;&lt;em&gt;Universidade da Beira Interior&lt;/em&gt;&lt;/p&gt;
+                                                &lt;/div&gt;
+                                            &lt;/li&gt;
+                                            &lt;li&gt;
+                                                &lt;div class=&#34;dates&#34;&gt;
+                                                    &lt;span&gt;2018&lt;/span&gt;
+                                                    &lt;span&gt;2016&lt;/span&gt;
+                                                &lt;/div&gt;
+                                                &lt;div class=&#34;content&#34;&gt;
+                                                    &lt;h4&gt;Invited Assistant Professor&lt;/h4&gt;
+                                                    &lt;p&gt;&lt;em&gt;Universidade Lusófona de Humanidades e Tecnologias&lt;/em&gt;&lt;/p&gt;
+                                                &lt;/div&gt;
+                                            &lt;/li&gt;
+                                            &lt;li&gt;
+                                                &lt;div class=&#34;dates&#34;&gt;
+                                                    &lt;span&gt;2018&lt;/span&gt;
+                                                    &lt;span&gt;2014&lt;/span&gt;
+                                                &lt;/div&gt;
+                                                &lt;div class=&#34;content&#34;&gt;
+                                                    &lt;h4&gt;Invited Assistant Professor&lt;/h4&gt;
+                                                    &lt;p&gt;&lt;em&gt;Universidade da Beira Interior&lt;/em&gt;&lt;/p&gt;
+                                                &lt;/div&gt;
+                                            &lt;/li&gt;
+                                            &lt;li&gt;
+                                                &lt;div class=&#34;dates&#34;&gt;
+                                                    &lt;span&gt;2017&lt;/span&gt;
+                                                    &lt;span&gt;2016&lt;/span&gt;
+                                                &lt;/div&gt;
+                                                &lt;div class=&#34;content&#34;&gt;
+                                                    &lt;h4&gt;Professor and Member of the Steering Committee&lt;/h4&gt;
+                                                    &lt;p&gt;&lt;em&gt; EU Master Care and Technology, UBI (Portugal), Zuyd, Fontys, Saxion (The Netherlands), SAMK, and TAMK (Finland)&lt;/em&gt;&lt;/p&gt;
+                                                &lt;/div&gt;
+                                            &lt;/li&gt;      
+                                            &lt;li&gt;
+                                                &lt;div class=&#34;dates&#34;&gt;
+                                                    &lt;span&gt;2014&lt;/span&gt;
+                                                    &lt;span&gt;2008&lt;/span&gt;
+                                                &lt;/div&gt;
+                                                &lt;div class=&#34;content&#34;&gt;
+                                                    &lt;h4&gt;Monitor&lt;/h4&gt;
+                                                    &lt;p&gt;&lt;em&gt;Universidade da Beira Interior&lt;/em&gt;&lt;/p&gt;
+                                                &lt;/div&gt;
+                                            &lt;/li&gt;                                                                                    
+                                        &lt;/ul&gt;
+                                    &lt;/div&gt;
+                                    &lt;div class=&#34;col-md-5&#34;&gt;
+                                        &lt;div class=&#34;title text-center&#34;&gt;
+                                            &lt;h3&gt;IT Positions&lt;/h3&gt;
+                                        &lt;/div&gt;
+                                        &lt;ul class=&#34;ul-dates&#34;&gt;
+                                            &lt;li&gt;
+                                                &lt;div class=&#34;dates&#34;&gt;
+                                                    &lt;span&gt;Present&lt;/span&gt;
+                                                    &lt;span&gt;2010&lt;/span&gt;
+                                                &lt;/div&gt;
+                                                &lt;div class=&#34;content&#34;&gt;
+                                                    &lt;h4&gt;CTO and/or Mentor&lt;/h4&gt;
+                                                    &lt;p&gt;&lt;em&gt;in several national and international companies&lt;/em&gt;&lt;/p&gt;
+                                                &lt;/div&gt;
+                                            &lt;/li&gt;
+                                            &lt;li&gt;
+                                                &lt;div class=&#34;dates&#34;&gt;
+                                                    &lt;span&gt;2010&lt;/span&gt;
+                                                    &lt;span&gt;2004&lt;/span&gt;
+                                                &lt;/div&gt;
+                                                &lt;div class=&#34;content&#34;&gt;
+                                                    &lt;h4&gt;Project Leader&lt;/h4&gt;
+                                                    &lt;p&gt;&lt;em&gt;ASSEC - Sistemas de Informação e Multimédia&lt;/em&gt;&lt;/p&gt;
+                                                &lt;/div&gt;
+                                            &lt;/li&gt;
+                                            &lt;li&gt;
+                                                &lt;div class=&#34;dates&#34;&gt;
+                                                    &lt;span&gt;2004&lt;/span&gt;
+                                                    &lt;span&gt;2000&lt;/span&gt;
+                                                &lt;/div&gt;
+                                                &lt;div class=&#34;content&#34;&gt;
+                                                    &lt;h4&gt;Team Leader&lt;/h4&gt;
+                                                    &lt;p&gt;&lt;em&gt;ASSEC - Sistemas de Informação e Multimédia&lt;/em&gt;&lt;/p&gt;
+                                                &lt;/div&gt;
+                                            &lt;/li&gt;
+                                            &lt;li&gt;
+                                                &lt;div class=&#34;dates&#34;&gt;
+                                                    &lt;span&gt;2000&lt;/span&gt;
+                                                    &lt;span&gt;1999&lt;/span&gt;
+                                                &lt;/div&gt;
+                                                &lt;div class=&#34;content&#34;&gt;
+                                                    &lt;h4&gt;Programmer&lt;/h4&gt;
+                                                    &lt;p&gt;&lt;em&gt;Integer SGPS&lt;/em&gt;&lt;/p&gt;
+                                                &lt;/div&gt;
+                                            &lt;/li&gt;
+                                        &lt;/ul&gt;
+                                    &lt;/div&gt;    
+                                &lt;/div&gt;    
+                            &lt;/div&gt;                                
+                        &lt;/div&gt;
+
+                        &lt;div class=&#34;section color-2&#34;&gt;
+                            &lt;div class=&#34;section-container&#34;&gt;
+                                &lt;div class=&#34;row&#34;&gt;
+                                    &lt;div class=&#34;col-md-10 col-md-offset-1&#34;&gt;
+                                        &lt;div class=&#34;title text-center&#34;&gt;
+                                            &lt;h3&gt;Honors, and Awards&lt;/h3&gt;
+                                        &lt;/div&gt;
+                                        &lt;ul class=&#34;timeline&#34;&gt;
+                                                    
+                                            &lt;li class=&#34;open&#34;&gt;
+                                                &lt;div class=&#34;date&#34;&gt;October 2017&lt;/div&gt;
+                                                &lt;div class=&#34;circle&#34;&gt;&lt;/div&gt;
+                                                &lt;div class=&#34;data&#34;&gt;
+                                                    &lt;div class=&#34;subject&#34;&gt;Winner of the Prémio João Cordeiro&lt;/div&gt;
+                                                    &lt;div class=&#34;text row open&#34; style=&#34;display: block;&#34;&gt;
+                                                        &lt;div class=&#34;col-md-2&#34;&gt;
+                                                            &lt;img alt=&#34;image&#34; class=&#34;thumbnail img-responsive&#34; src=&#34;./foto_files/PJC_ANF.png&#34;&gt;
+                                                        &lt;/div&gt;
+                                                        &lt;div class=&#34;col-md-10&#34;&gt;
+                                                             Winner of the Prémio João Cordeiro - Inovação em Farmácia, organized by the Associação Nacional de Farmácias (ANF) with the project “Rede de Farmácias Amigas do Viajante”.
+                                                            &lt;p&gt;Promotional video: &lt;a href=&#34;https://www.youtube.com/watch?v=JDclZfJz6TY&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+                                                            &lt;p&gt;Flash interview: &lt;a href=&#34;https://www.youtube.com/watch?v=rQS9qq4mZyw&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+                                                            
+                                                        &lt;/div&gt;
+                                                    &lt;/div&gt;
+                                                &lt;/div&gt;
+                                            &lt;/li&gt;
+                                            &lt;li&gt;
+                                                &lt;div class=&#34;date&#34;&gt;March 2012&lt;/div&gt;
+                                                &lt;div class=&#34;circle&#34;&gt;&lt;/div&gt;
+                                                &lt;div class=&#34;data&#34;&gt;
+                                                    &lt;div class=&#34;subject&#34;&gt;Best Paper Award&lt;/div&gt;
+                                                    &lt;div class=&#34;text row&#34;&gt;
+                                                        &lt;div class=&#34;col-md-2&#34;&gt;
+                                                            &lt;img alt=&#34;image&#34; class=&#34;thumbnail img-responsive&#34; src=&#34;./foto_files/imecs.png&#34;&gt;
+                                                        &lt;/div&gt;
+                                                        &lt;div class=&#34;col-md-10&#34;&gt;
+                                                            Best Paper Award to the paper &#34;Contribution of Web Services to Improve Pain Diaries Experience&#34;, Pombo N., Araújo P., Viana J., Junior B., and Serrano R., International MultiConference of Engineers and Computer Scientists 2012, IMECS 2012, 14-16 March, 2012, Hong Kong.
+                                                        &lt;/div&gt;
+                                                    &lt;/div&gt;
+                                                &lt;/div&gt;
+                                            &lt;/li&gt;
+                                        &lt;/ul&gt;
+                                    &lt;/div&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;                            
+                    &lt;/div&gt;
+                &lt;/div&gt;
+
+                &lt;div id=&#34;research&#34; class=&#34;page&#34; data-pos=&#34;p1&#34; style=&#34;z-index: 0; left: 100%;&#34;&gt;
+                    &lt;div class=&#34;page-container&#34;&gt;
+                        &lt;div class=&#34;pageheader&#34;&gt;
+                            &lt;div class=&#34;headercontent&#34;&gt;
+                                &lt;div class=&#34;section-container&#34;&gt;
+                                    
+                                    &lt;h2 class=&#34;title&#34;&gt;Research&lt;/h2&gt;
+                                    &lt;div class=&#34;row&#34;&gt;
+                                        &lt;div class=&#34;col-md-12&#34;&gt;
+                                            &lt;p&gt;Through active participation in international projects such as the Far-Future Strategy Development for STEM Higher Education Teachers &lt;a href=&#34;https://www.befit4future.eu/&#34; target=&#34;_blank&#34;&gt;(FIT4FUTURE)&lt;/a&gt;, 
+                                                HE Teachers and Institutions and Institutional Technology &lt;a href=&#34;https://www.hiitproject.eu/&#34; target=&#34;_blank&#34;&gt;(HIIT)&lt;/a&gt;, 
+                                                and various digital transformation initiatives like &lt;a href=&#34;https://www.di.ubi.pt/~ngpombo/Gresint_PT.pdf&#34; target=&#34;_blank&#34;&gt;(GRESINT)&lt;/a&gt;, 
+                                                I have collaborated closely with leading researchers, prestigious universities, and companies. The publications stemming from these collaborations 
+                                                represent the culmination of intensive and fruitful teamwork. This international exposure has significantly shaped and enriched my research career.
+                                            &lt;/p&gt;
+                                        &lt;/div&gt;
+                                    &lt;/div&gt;
+                                    
+                                    &lt;div class=&#34;row&#34;&gt;
+                                        &lt;div class=&#34;col-md-2&#34;&gt;
+                                            &lt;p&gt;&lt;a href=&#34;https://www.scopus.com/authid/detail.uri?authorId=55389546100&#34; target=&#34;_blank&#34;&gt;Scopus&lt;/a&gt;
+                                            &lt;/p&gt;
+                                        &lt;/div&gt;
+                                        &lt;div class=&#34;col-md-2&#34;&gt;
+                                            &lt;p&gt;&lt;a href=&#34;https://scholar.google.pt/citations?user=ZoDigNsAAAAJ&amp;amp;hl=pt-PT&#34; target=&#34;_blank&#34;&gt;Google Scholar&lt;/a&gt;
+                                            &lt;/p&gt;
+                                        &lt;/div&gt;
+                                    &lt;/div&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+
+                        &lt;div class=&#34;pagecontents&#34;&gt;
+                            
+
+                            &lt;div class=&#34;section color-2&#34; id=&#34;pub-grid&#34;&gt;
+                                &lt;div class=&#34;section-container&#34;&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+
+                
+                &lt;div id=&#34;teaching&#34; class=&#34;page&#34; data-pos=&#34;p1&#34; style=&#34;z-index: 0; left: 100%;&#34;&gt;
+                    &lt;div class=&#34;pageheader&#34;&gt;
+                        &lt;div class=&#34;headercontent&#34;&gt;
+                            &lt;div class=&#34;section-container&#34;&gt;
+                                
+                                &lt;h2 class=&#34;title&#34;&gt;Teaching&lt;/h2&gt;
+                                
+                                &lt;div class=&#34;row&#34;&gt;
+                                    &lt;div class=&#34;col-md-12&#34;&gt;
+                                        &lt;p&gt;To provide students with the knowledge necessary for their future studies and career, my teaching approach aims to develop both their hard and soft skills. In line with this I developed a methodology based on multiple and complementary challenges (nickname: &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8725146&#34; target=&#34;_blank&#34;&gt;Badges&lt;/a&gt;) focused either on theoretical foundations or in hands-on experience. This approach raises the students&#39; motivation and participation in the classroom. In addition, you can find &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8363336&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; my contribution to interlink Science, Technology, Engineering and Mathematics (STEM), and Interactive Design. Finally, you can find &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9125353&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; challenges and perspectives on Software Engineering Education.
+                                        &lt;/p&gt;                                                   
+                                    &lt;/div&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&#34;pagecontents&#34;&gt;
+                        &lt;div class=&#34;section color-1&#34;&gt;
+                            &lt;div class=&#34;section-container&#34;&gt;
+                                &lt;div class=&#34;row&#34;&gt;
+                                    &lt;div class=&#34;title text-center&#34;&gt;
+                                        &lt;h3&gt;Current Teaching&lt;/h3&gt;
+                                    &lt;/div&gt;
+                                    
+                                    &lt;ul class=&#34;ul-dates&#34;&gt;
+                                        &lt;li&gt;
+                                            &lt;div class=&#34;dates&#34;&gt;
+                                                &lt;span&gt;2025/26&lt;/span&gt;
+                                                &lt;span&gt;1S&lt;/span&gt;
+                                            &lt;/div&gt;
+                                            &lt;div class=&#34;content&#34;&gt;
+                                                &lt;h4&gt;Engenharia de Software&lt;/h4&gt;
+                                                &lt;p&gt;Additional information &lt;a href=&#34;https://www.di.ubi.pt/~ngpombo/units/se.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+                                            &lt;/div&gt;
+                                        &lt;/li&gt;
+                                        &lt;li&gt;
+                                            &lt;div class=&#34;dates&#34;&gt;
+                                                &lt;span&gt;2025/26&lt;/span&gt;
+                                                &lt;span&gt;1S&lt;/span&gt;
+                                            &lt;/div&gt;
+                                            &lt;div class=&#34;content&#34;&gt;
+                                                &lt;h4&gt;Plataformas e Serviços X-Ops&lt;/h4&gt;&lt;h4&gt;
+                                                &lt;p&gt;Additional information &lt;a href=&#34;https://www.di.ubi.pt/~ngpombo/units/psx.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+                                            &lt;/h4&gt;&lt;/div&gt;
+                                        &lt;/li&gt;
+                                        &lt;li&gt;
+                                            &lt;div class=&#34;dates&#34;&gt;
+                                                &lt;span&gt;2025/26&lt;/span&gt;
+                                                &lt;span&gt;2S&lt;/span&gt;
+                                            &lt;/div&gt;
+                                            &lt;div class=&#34;content&#34;&gt;
+                                                &lt;h4&gt;Qualidade de Software&lt;/h4&gt;
+                                                &lt;p&gt;Additional information &lt;a href=&#34;https://www.di.ubi.pt/~ngpombo/units/sq.html&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+                                            &lt;/div&gt;
+                                        &lt;/li&gt;                                                                                
+                                    &lt;/ul&gt;
+                                    
+                                    &lt;div class=&#34;title text-center&#34;&gt;
+                                        &lt;h3&gt;MSc Dissertation Topics 2023/24&lt;/h3&gt;
+                                    &lt;/div&gt;
+                                    &lt;ul class=&#34;ul-dates&#34;&gt;
+                                        &lt;li&gt;
+                                            &lt;div class=&#34;content&#34;&gt;
+                                                &lt;ul&gt;
+                                                    &lt;li&gt;Trajectory planning based on adaptive model predictive control with sensor fusion for autonomous vehicles&lt;/li&gt;
+                                                    &lt;li&gt;Autonomous emergency braking with sensor fusion for highway trajectory planning&lt;/li&gt;
+                                                    &lt;li&gt;Towards integration of AI and software development processes into the AI system development life cycle&lt;/li&gt;
+                                                    &lt;li&gt;Software engineering at the intersection with human-computer interaction&lt;/li&gt;
+                                                &lt;/ul&gt;
+                                            &lt;/div&gt;
+                                        &lt;/li&gt;                                                                                                                       
+                                    &lt;/ul&gt;                                    
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;                        
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                    
+                &lt;div id=&#34;contact&#34; class=&#34;page stellar&#34; data-pos=&#34;p1&#34; style=&#34;z-index: 0; left: 100%;&#34;&gt;
+                    &lt;div class=&#34;pageheader&#34;&gt;
+                        &lt;div class=&#34;headercontent&#34;&gt;
+                            &lt;div class=&#34;section-container&#34;&gt;
+                                &lt;h2 class=&#34;title&#34;&gt;Contact &amp;amp; Meet Me&lt;/h2&gt;
+                                &lt;div class=&#34;row&#34;&gt;
+                                    &lt;div class=&#34;col-md-8&#34;&gt;
+                                        &lt;p&gt;Universidade da Beira Interior, R. Marquês de Ávila e Bolama, 6201-001 Covilhã, Portugal&lt;/p&gt;                              
+                                    &lt;/div&gt;
+                                    &lt;div class=&#34;col-md-4&#34;&gt;
+                                        &lt;ul class=&#34;list-unstyled&#34;&gt;
+                                            &lt;li&gt;
+                                                &lt;strong&gt;&lt;i class=&#34;icon-phone&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;
+                                                &lt;span&gt;office: 275 319 700 (1660)&lt;/span&gt;
+                                            &lt;/li&gt;
+                                            &lt;li&gt;
+                                                &lt;strong&gt;&lt;i class=&#34;icon-envelope&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;
+                                                &lt;span&gt;ngpombo@di.ubi.pt&lt;/span&gt;
+                                            &lt;/li&gt;
+                                            &lt;li&gt;
+                                                &lt;strong&gt;&lt;i class=&#34;icon-envelope&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;
+                                                &lt;span&gt;ngpombo@ubi.pt&lt;/span&gt;
+                                            &lt;/li&gt;
+                                            &lt;li&gt;
+                                                &lt;strong&gt;&lt;i class=&#34;icon-skype&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;
+                                                &lt;span&gt;nuno.coelho.pombo&lt;/span&gt;
+                                            &lt;/li&gt;
+                                            &lt;li&gt;
+                                                &lt;strong&gt;&lt;i class=&#34;icon-linkedin-sign&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;
+                                                &lt;span&gt;&lt;a href=&#34;https://www.linkedin.com/in/nuno-pombo-19957944/&#34; target=&#34;_blank&#34;&gt;linkedin&lt;/a&gt;&lt;/span&gt;
+                                            &lt;/li&gt;
+                                        &lt;/ul&gt;    
+
+                                    &lt;/div&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                
+                &lt;div id=&#34;overlay&#34; style=&#34;display: none;&#34;&gt;&lt;/div&gt;
+            
+            &lt;/div&gt;
+        &lt;/div&gt;
+&lt;script&gt;
+  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,&#39;script&#39;,&#39;../../www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  ga(&#39;create&#39;, &#39;UA-45653136-1&#39;, &#39;owwwlab.com&#39;);
+  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+&lt;/script&gt;
+    
+&lt;/body&gt;&lt;/html&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

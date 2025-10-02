@@ -1,0 +1,1 @@
+.wide-research .max-w-prose{max-width:1e3px;text-align:justify}.wide-resume-awards .max-w-prose{max-width:600px}.wide-resume-biography .bio-text{text-align:justify}.two-column-left-right{display:flex;flex-wrap:wrap;gap:2rem}.two-column-left-right .work-item{width:calc(50% - 1rem)}@media(max-width:768px){.two-column-left-right .work-item{width:100%}}
