@@ -1,0 +1,19 @@
+main:
+  - name: Bio
+    url: /
+    weight: 10
+  - name: Research
+    url: /#research
+    weight: 11
+  - name: Academic & IT Positions 
+    url: /#positions
+    weight: 12
+  - name: Honors & Awards
+    url: /#awards
+    weight: 13
+  - name: Teaching
+    url: teaching/
+    weight: 14
+  - name: Contact & Meet Me
+    url: contactos/
+    weight: 15
