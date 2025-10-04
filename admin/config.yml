@@ -1,0 +1,48 @@
+backend:
+  name: git-gateway   # usa Git Gateway com Netlify Identity
+  branch: main        # ou 'master', depende do teu repositório
+
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "publication" 
+    label: "Publications"
+    folder: "content/publication"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - label: "Authors"
+        name: "authors"
+        widget: "list"
+        field: {label: "Author", name: "author", widget: "string"}
+      - {label: "Abstract", name: "abstract", widget: "text", required: false}
+      - label: "Publication Type"
+        name: "publication_types"
+        widget: "select"
+        options:
+          - { label: "Conference Paper", value: "1" }
+          - { label: "Journal Article", value: "2" }
+          - { label: "Preprint", value: "3" }
+          - { label: "Report", value: "4" }
+          - { label: "Book", value: "5" }
+          - { label: "Book Chapter", value: "6" }
+          - { label: "Thesis", value: "7" }
+          - { label: "Patent", value: "8" }
+      - {label: "Publication Name (Full)", name: "publication", widget: "string", required: false}
+      - {label: "Publication Short Name", name: "publication_short", widget: "string", required: false}
+      - {label: "DOI", name: "doi", widget: "string", required: false}
+      - {label: "PDF URL", name: "url_pdf", widget: "string", required: false}
+      - label: "Links"
+        name: "links"
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Name", name: "name", widget: "string"}
+          - {label: "URL", name: "url", widget: "string"}
+      - {label: "Featured?", name: "featured", widget: "boolean", default: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
