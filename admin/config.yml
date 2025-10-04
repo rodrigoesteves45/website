@@ -1,6 +1,6 @@
 backend:
   name: git-gateway   # usa Git Gateway com Netlify Identity
-  branch: main        # ou 'master', depende do teu repositório
+  branch: gh-pages        
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
