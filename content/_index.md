@@ -5,6 +5,19 @@ date: ''
 type: landing
 
 sections:
+
+  - block: collection
+    id: publications
+    content:
+      title: "Publications"
+      filters:
+        folders:
+          - publication
+      count: 5
+    design:
+      columns: '1'
+      view: citation
+
   - block: resume-biography-3
     content:
       username: admin
@@ -43,21 +56,6 @@ sections:
     design:
       columns: '1'
       css_class: "wide-research"
-
-
-  - block: collection
-    id: publications
-    content:
-      title: "Publications"
-      subtitle: ""
-      text: ""
-      filters:
-        folders:
-          - publication
-        featured_only: false
-    design:
-      columns: '1'
-      view: citation
 
   - block: markdown
     id: positions
