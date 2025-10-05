@@ -2,6 +2,9 @@ backend:
   name: git-gateway   # usa Git Gateway com Netlify Identity
   branch: gh-pages        
 
+site_url: "https://rodrigoesteves45.github.io/website"
+display_url: "https://rodrigoesteves45.github.io/website"
+
 media_folder: "static/uploads"
 public_folder: "/uploads"
 
