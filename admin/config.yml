@@ -2,6 +2,9 @@ backend:
   name: git-gateway   # usa Git Gateway com Netlify Identity
   branch: gh-pages        
 
+site_url: "https://rodrigoesteves45.github.io/website"
+display_url: "https://rodrigoesteves45.github.io/website"
+
 media_folder: "static/uploads"
 public_folder: "/uploads"
 
@@ -33,8 +36,7 @@ collections:
           - { label: "Book Chapter", value: "6" }
           - { label: "Thesis", value: "7" }
           - { label: "Patent", value: "8" }
-      - {label: "Publication Name (Full)", name: "publication", widget: "string", required: false}
-      - {label: "Publication Short Name", name: "publication_short", widget: "string", required: false}
+      - {label: "Publication Name", name: "publication", widget: "string", required: false}
       - {label: "DOI", name: "doi", widget: "string", required: false}
       - {label: "PDF URL", name: "url_pdf", widget: "string", required: false}
       - label: "Links"
