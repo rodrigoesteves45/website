@@ -6,17 +6,12 @@ type: landing
 
 sections:
 
-  - block: collection
-    id: publications
+  - block: markdown
+    id: pub-slider
     content:
       title: "Publications"
-      filters:
-        folders:
-          - publication
-      count: 5
-    design:
-      columns: '1'
-      view: citation
+      text: |
+        {{ partial "carousel-publications.html" . }}
 
   - block: resume-biography-3
     content:
@@ -137,6 +132,7 @@ sections:
     content:
       title: Honors and Awards
       username: admin
+      text: ""
     design:
       columns: '2'
       css_class: "wide-resume-awards"

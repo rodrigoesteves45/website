@@ -1,0 +1,25 @@
+<section id="pub-slider" class="carousel slide relative" data-ride="carousel" data-interval="6000">
+  <div class="carousel-inner relative w-full overflow-hidden rounded-2xl shadow-lg">
+
+    {{ $pubs := first 5 (where site.RegularPages "Section" "publication" ) }}
+    {{ range $index, $p := $pubs }}
+      <div class="carousel-item {{ if eq $index 0 }}active{{ end }}" style="background-image: url('{{ with $p.Params.featured_image }}{{ . }}{{ else }}/images/default-pub.jpg{{ end }}'); min-height: 450px; background-size: cover; background-position: center;">
+        <div class="carousel-caption absolute bottom-0 left-0 right-0 bg-black/50 text-white p-6 rounded-b-2xl">
+          <h2 class="text-2xl font-bold">{{ $p.Title }}</h2>
+          {{ with $p.Params.authors }}<p class="italic">{{ delimit . ", " }}</p>{{ end }}
+          {{ with $p.Params.publication }}<p class="text-sm">{{ . }}</p>{{ end }}
+          <a href="{{ $p.RelPermalink }}" class="inline-block mt-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-lg transition">Read more</a>
+        </div>
+      </div>
+    {{ end }}
+
+  </div>
+
+  <!-- Controles -->
+  <a class="carousel-control-prev absolute top-1/2 left-4 -translate-y-1/2 cursor-pointer" href="#pub-slider" data-slide="prev">
+    <span class="carousel-control-prev-icon bg-gray-800/50 p-2 rounded-full"></span>
+  </a>
+  <a class="carousel-control-next absolute top-1/2 right-4 -translate-y-1/2 cursor-pointer" href="#pub-slider" data-slide="next">
+    <span class="carousel-control-next-icon bg-gray-800/50 p-2 rounded-full"></span>
+  </a>
+</section>

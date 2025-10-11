@@ -23,7 +23,7 @@ removePathAccents: true
 ############################
 
 build:
-  writeStats: true
+  writeStats: false
 enableGitInfo: false
 summaryLength: 30
 pagination:
@@ -57,3 +57,10 @@ sitemap:
 params:
   customCSS:
     - "css/custom.css"
+    - "css/entry.7c32fe8ae927b75579b60d90d18240c147b192779e9a80ba79a963e17709f2fb.css" 
+assets:
+    disableFingerprinting = true
+media:
+  enable: false
+disableKinds:
+  - media
