@@ -29,15 +29,6 @@
     </item>
     
     <item>
-      <title>Improving activity recognition accuracy in ambient-assisted living systems by automated feature engineering</title>
-      <link>https://rodrigoesteves45.github.io/publication/pub1/</link>
-      <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://rodrigoesteves45.github.io/publication/pub1/</guid>
-      <description>&lt;p&gt;Ambient-assisted living (AAL) is promising to become a supplement of the current care models, providing enhanced living experience to people within context-aware homes and smart environments. Activity recognition based on sensory data in AAL systems is an important task because 1) it can be used for estimation of levels of physical activity, 2) it can lead to detecting changes of daily patterns that may indicate an emerging medical condition, or 3) it can be used for detection of accidents and emergencies. To be accepted, AAL systems must be affordable while providing reliable performance. These two factors hugely depend on optimizing the number of utilized sensors and extracting robust features from them. This paper proposes a generic feature engineering method for selecting robust features from a variety of sensors, which can be used for generating reliable classification models. From the originally …&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
